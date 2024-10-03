@@ -6,4 +6,4 @@
 
 my_dict = {"naam": "pipo", "mijn_getal": 8, "fav_kleur": "groen"}
 
-print(my_dict)
+print (my_dict)
